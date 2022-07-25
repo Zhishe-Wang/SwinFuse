@@ -1,7 +1,7 @@
 # SwinFuse: A Residual Swin Transformer Fusion Network for Infrared and Visible Images
 Zhishe Wang,Yanlin Chen,Wenyu Shao,Hui Li,Lei Zhang
 
-[paper](https://ieeexplore.ieee.org/document/9670874)  
+[paper] 
 
 ## Platform
 Python 3.7
@@ -14,7 +14,7 @@ Pytorch >=1.6.0
 ## Tips:<br>
 Large files should be downloaded separately, including the following files: <br>
 #### For testing:<br>
-* [trained model](https://pan.baidu.com/s/1x-Z2vNVJwHtiSflvC78pTA)<br>
+[trained model](https://pan.baidu.com/s/1x-Z2vNVJwHtiSflvC78pTA)<br>
 Extraction code: 
 
 ## Citation
