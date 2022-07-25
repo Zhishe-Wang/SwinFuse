@@ -1,23 +1,23 @@
-# SwinFuse: A Residual Swin Transformer Fusion Network for Infrared and Visible Images
+#SwinFuse: A Residual Swin Transformer Fusion Network for Infrared and Visible Images
 Zhishe Wang,Yanlin Chen,Wenyu Shao,Hui Li,Lei Zhang
 
-[paper] 
+[paper](https://ieeexplore.ieee.org/document/9832006/)
 
-## Platform
+##Platform
 Python 3.7
 Pytorch >=1.6.0
 
-## Training Dataset
+##Training Dataset
 
 [MS-COCO 2014](http://images.cocodataset.org/zips/train2014.zip) (T.-Y. Lin, M. Maire, S. Belongie, J. Hays, P. Perona, D. Ramanan, P. Dollar, and C. L. Zitnick. Microsoft coco: Common objects in context. In ECCV, 2014. 3-5.) is utilized to train our auto-encoder network.
 
-## Tips:<br>
+##Tips:<br>
 Large files should be downloaded separately, including the following files: <br>
-#### For testing:<br>
+####For testing:<br>
 [trained model]
 Extraction code: 
 
-## Citation
+##Ciation
 If this work is helpful to you, please cite it as:
 ```
 @ARTICLE{
