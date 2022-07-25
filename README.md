@@ -1,24 +1,25 @@
-SwinFuse: A Residual Swin Transformer Fusion
-Network for Infrared and Visible Images
+# SwinFuse: A Residual Swin Transformer Fusion Network for Infrared and Visible Images
 Zhishe Wang,Yanlin Chen,Wenyu Shao,Hui Li,Lei Zhang
-paper
 
-Platform
+[paper](https://ieeexplore.ieee.org/document/9670874)  
+
+## Platform
 Python 3.7
 Pytorch >=1.6.0
 
-Training Dataset
-MS-COCO 2014 (T.-Y. Lin, M. Maire, S. Belongie, J. Hays, P. Perona, D. Ramanan, P. Dollar, and C. L. Zitnick. Microsoft coco: Common objects in context. In ECCV, 2014. 3-5.) is utilized to train our auto-encoder network.
+## Training Dataset
 
-Tips:
-Large files should be downloaded separately, including the following files:
+[MS-COCO 2014](http://images.cocodataset.org/zips/train2014.zip) (T.-Y. Lin, M. Maire, S. Belongie, J. Hays, P. Perona, D. Ramanan, P. Dollar, and C. L. Zitnick. Microsoft coco: Common objects in context. In ECCV, 2014. 3-5.) is utilized to train our auto-encoder network.
 
-For testing:
-trained model
+## Tips:<br>
+Large files should be downloaded separately, including the following files: <br>
+#### For testing:<br>
+* [trained model](https://pan.baidu.com/s/1x-Z2vNVJwHtiSflvC78pTA)<br>
 Extraction code: 
 
-Citation
+## Citation
 If this work is helpful to you, please cite it as:
+```
 @ARTICLE{
   author={Wang, Zhishe and Chen, Yanlin and Shao, Wenyu and Li, Hui and Zhang, Lei},
   journal={IEEE Transactions on Instrumentation and Measurement}, 
@@ -28,4 +29,5 @@ If this work is helpful to you, please cite it as:
   number={},
   pages={1-1},
   doi={10.1109/TIM.2022}}
+ ```
 If you have any question, please email to me (wangzs@tyust.edu.cn).
