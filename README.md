@@ -14,7 +14,7 @@ Pytorch >=1.6.0
 ## Tips:<br>
 Large files should be downloaded separately, including the following files: <br>
 #### For testing:<br>
-[trained model](https://pan.baidu.com/s/1x-Z2vNVJwHtiSflvC78pTA)<br>
+[trained model]
 Extraction code: 
 
 ## Citation
