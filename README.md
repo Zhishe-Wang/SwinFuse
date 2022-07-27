@@ -16,6 +16,7 @@ Pytorch >=1.6.0
 Large files should be downloaded separately, including the following files: <br>
 #### For testing:<br>
 * [trained model](https://pan.baidu.com/s/1gV_zkJ2AylB25VPHAOxuyg)<br>
+
  Extraction code: mn9k
 
 ## Ciation
